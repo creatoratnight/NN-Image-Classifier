@@ -1,2 +1,2 @@
-# nn-image-classifier
+# NN Image Classifier
 NN Image Classifier
